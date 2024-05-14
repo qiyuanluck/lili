@@ -2,11 +2,7 @@ server:
   port: 7070
   tomcat:
     uri-encoding: UTF-8
-    connection-timeout: 20000
-    keep-alive-timeout: 60000   # 不知道为什么connection: keep-alive没生效，一直是close
-    threads:
-      max: 400
-      min-spare: 10
+
 spring:
   datasource:
     # 使用druid数据库连接池
