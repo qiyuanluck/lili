@@ -1,4 +1,7 @@
 # lili
+springboot+vue+mybatis-plus、、、、
+用于个人练习
+软件工程大作业
 前后端分离项目
 
 未完结
